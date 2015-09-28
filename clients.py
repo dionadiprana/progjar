@@ -1,4 +1,3 @@
-# telnet program example
 import socket, select, string, sys
  
 def prompt() :
